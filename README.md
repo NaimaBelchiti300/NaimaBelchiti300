@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel , Reactjs and Nodejs**
+- 🌱 I’m currently learning **NextJs **
 
-- 💬 Ask me about **react,javascript**
+- 💬 Ask me about **Reactjs and Nodejs**
 
 - 📫 How to reach me **naimabelchiti07@gmail.com**
 
